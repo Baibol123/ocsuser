@@ -1,0 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;600;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 75px;
+    /*margin: 1% 4% 0% 6%;*/
+    background-color: rgb(255, 255, 255);
+}
+
+.had {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    width: 30%;
+    margin-right: 36px;
+}
+
+.logo {
+    margin-right: 8%;
+    margin-left: 8%;
+    margin-top: 1%;
+}
+
+.burger {
+    margin-left: 36px;
+    width: 39px;
+    height: 39px;
+    background-color: black;
+    border: 2px solid #1D1F43;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.in {
+    display: flex;
+    margin-right: 96px;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+}
+
+.email {
+    margin-right: 15%;
+}
+
+.set {
+    width: 298px;
+    height: 55px;
+    padding: 10px;
+    display: flex;
+    background: #FFFFFF;
+    border: 0.8px solid #A6A6A6;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+.ns {
+    list-style-type: none;
+}
+
+.img {
+    margin-right: 15%;
+}
+
+.cor {
+    margin-right: 15%;
+}
+.user{
+    display: flex;
+    width: 920px;
+    height: 185px;
+    left: 60px;
+    top: 117px;
+    border: 1px solid #638992;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin-left: 60px;
+    margin-top: 34px;
+}
+.ava{
+    display: flex;
+    width: 99px;
+    height: 99px;
+    left: 72px;
+    top: 131px;
+    margin-left: 12px;
+    margin-top: 14px;   
+}
+.usertext{
+    position: absolute;
+    list-style-type: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 51px;
+    color: #1D1F43;
+    margin-left: 140px;
+    margin-top: 31px; 
+}
+.tprofile{
+    display: flex;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    margin-left: -85px;
+    margin-top: 140px;
+    color: #455B86;
+}
+.eprofile{
+    margin-left: 40px;
+    margin-top: 140px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    color: rgba(99, 123, 146, 0.8);
+}
+.border2{
+    margin-top: 11px;
+    margin-left: 650px;
+    height: 39px;
+    border: 2px solid #637B92;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.userdetails{
+    width: 578px;
+    height: 252px;
+    left: 60px;
+    top: 346px;
+    margin-top: 44px;
+    margin-left: 60px;
+    border: 1px solid #638992;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.tuser{
+    list-style-type: none;
+    margin-top: 18px;
+    margin-left: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #1D1F43;
+}
+.tuser2{
+    list-style-type: none;
+    margin-top: 34px;
+    margin-left: 22px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #637B92;
+}
