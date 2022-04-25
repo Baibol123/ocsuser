@@ -67,6 +67,12 @@ header {
 
 .ns {
     list-style-type: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 21px;
+    color: #1D1F43;
 }
 
 .img {
@@ -134,6 +140,7 @@ header {
 .border2{
     margin-top: 11px;
     margin-left: 650px;
+    width: 39px;
     height: 39px;
     border: 2px solid #637B92;
     box-sizing: border-box;
@@ -177,6 +184,7 @@ header {
     transform: rotate(-0.21deg);
     margin-top: 12px;
     margin-left: 22px;
+    width: 534px;
 }
 .tuser3{
     font-family: 'Montserrat';
@@ -188,4 +196,103 @@ header {
     margin-top: 20px;
     margin-left: 22px;
     list-style-type: none;
+}
+.tuser4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-left: 22px;
+    color: #637B92;
+    list-style-type: none;
+}
+.tuser5{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #637B92;
+    margin-top: 20px;
+    margin-left: 22px;
+    list-style-type: none;
+}
+.privacy{
+    border: 1px solid #638992;
+    box-sizing: border-box;
+    border-radius: 6px;
+    width: 578px;
+    height: 111px;
+    left: 60px;
+    top: 627px;
+    margin-top: 29px;
+    margin-left: 60px;
+}
+.policies{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 13px;
+    margin-left: 22px;
+    color: #1D1F43;
+    list-style-type: none;
+}
+.datas{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 19.5px;
+    margin-left: 22px;
+    color: #637B92;
+    list-style-type: none;
+}
+.mobileapp{
+    width: 578px;
+    height: 237px;
+    left: 60px;
+    top: 767px;
+    margin-top: 29px;
+    margin-left: 60px;
+    border: 1px solid #638992;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+.mobile{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-left: 22px;
+    color: #1D1F43;
+    list-style-type: none;
+}
+.qr{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 20px;
+    margin-left: 22px;
+    color: #637B92;
+    list-style-type: none;
+}
+.course{
+    width: 583px;
+    height: 424px;
+    left: 707px;
+    top: 346px;
+    margin-top: 44px;
+    margin-left: 707px;
+    border: 1px solid #638992;
+    box-sizing: border-box;
+    border-radius: 6px;
 }
